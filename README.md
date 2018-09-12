@@ -8,4 +8,6 @@ multiplicar
 
 Ejecutar comando
 
+```
 npm install 
+```
